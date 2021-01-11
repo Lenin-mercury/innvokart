@@ -1,0 +1,8 @@
+const config = {
+    apiKey: "AIzaSyCMNdbadq5jRE34Zcph6WiCJsyQtG1K2qE",
+    authDomain: "invokart.firebaseapp.com",
+    projectId: "invokart",
+    storageBucket: "invokart.appspot.com",
+    messagingSenderId: "485392948908",
+    appId: "1:485392948908:web:bb8509d9dfe805e5aa4909"
+  }
